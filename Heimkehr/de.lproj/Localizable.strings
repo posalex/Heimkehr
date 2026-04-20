@@ -1,0 +1,27 @@
+/* Menu items */
+"menu_move_internal" = "Alle Fenster zum internen Display";
+"menu_move_next" = "Alle Fenster zum nächsten Display";
+"menu_move_to_monitor_format" = "Zu Monitor %1$d: %2$@";
+"menu_monitor_internal_suffix" = " (intern)";
+"menu_restore" = "Ursprüngliche Konfiguration wiederherstellen";
+"menu_open_accessibility" = "Bedienungshilfen-Einstellungen öffnen…";
+"menu_launch_at_login" = "Bei Anmeldung starten";
+"menu_about" = "Über Heimkehr";
+"menu_quit" = "Beenden";
+
+/* About dialog */
+"about_title" = "Heimkehr";
+"about_body" = "Verschiebt alle Fenster auf einen gewählten Monitor.\n\nNützlich, wenn zwei Laptops an einem externen Display hängen und Fenster auf dem nicht sichtbaren Eingang „verloren gehen“.\n\nTastenkürzel:\n⌃⌥⌘H – Alle Fenster zum internen Display\n⌃⌥⌘Z – Ursprüngliche Positionen wiederherstellen";
+
+/* Accessibility permission */
+"accessibility_required_title" = "Bedienungshilfen-Zugriff erforderlich";
+"accessibility_required_body" = "Heimkehr benötigt Zugriff auf die Bedienungshilfen, um Fenster anderer Apps zu verschieben.\n\nBitte aktiviere „Heimkehr“ in:\nSystemeinstellungen → Datenschutz & Sicherheit → Bedienungshilfen";
+"button_open_settings" = "Einstellungen öffnen";
+"button_later" = "Später";
+
+/* Launch at Login failure */
+"launch_at_login_failed_title" = "Anmeldeobjekt konnte nicht geändert werden";
+"launch_at_login_failed_body" = "Das System hat die Änderung abgelehnt. Bitte prüfe Systemeinstellungen → Allgemein → Anmeldeobjekte auf Heimkehr.";
+
+/* Generic */
+"ok" = "OK";

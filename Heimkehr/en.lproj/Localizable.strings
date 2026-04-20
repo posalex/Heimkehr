@@ -1,0 +1,27 @@
+/* Menu items */
+"menu_move_internal" = "Move all windows to internal display";
+"menu_move_next" = "Move all windows to next display";
+"menu_move_to_monitor_format" = "To monitor %1$d: %2$@";
+"menu_monitor_internal_suffix" = " (internal)";
+"menu_restore" = "Restore original configuration";
+"menu_open_accessibility" = "Open Accessibility Settings…";
+"menu_launch_at_login" = "Launch at Login";
+"menu_about" = "About Heimkehr";
+"menu_quit" = "Quit";
+
+/* About dialog */
+"about_title" = "Heimkehr";
+"about_body" = "Moves all windows to a chosen monitor.\n\nUseful when two laptops share an external display and windows get \"lost\" on the hidden input.\n\nShortcuts:\n⌃⌥⌘H – Move all windows to internal display\n⌃⌥⌘Z – Restore original positions";
+
+/* Accessibility permission */
+"accessibility_required_title" = "Accessibility access required";
+"accessibility_required_body" = "Heimkehr needs Accessibility access to move other apps' windows.\n\nPlease enable \"Heimkehr\" in:\nSystem Settings → Privacy & Security → Accessibility";
+"button_open_settings" = "Open Settings";
+"button_later" = "Later";
+
+/* Launch at Login failure */
+"launch_at_login_failed_title" = "Could not change login item";
+"launch_at_login_failed_body" = "The system blocked the change. Please check System Settings → General → Login Items for Heimkehr.";
+
+/* Generic */
+"ok" = "OK";

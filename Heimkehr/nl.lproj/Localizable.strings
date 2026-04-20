@@ -1,0 +1,27 @@
+/* Menu items */
+"menu_move_internal" = "Alle vensters naar het interne beeldscherm";
+"menu_move_next" = "Alle vensters naar het volgende beeldscherm";
+"menu_move_to_monitor_format" = "Naar beeldscherm %1$d: %2$@";
+"menu_monitor_internal_suffix" = " (intern)";
+"menu_restore" = "Oorspronkelijke configuratie herstellen";
+"menu_open_accessibility" = "Open toegankelijkheidsinstellingen…";
+"menu_launch_at_login" = "Starten bij aanmelden";
+"menu_about" = "Over Heimkehr";
+"menu_quit" = "Stop";
+
+/* About dialog */
+"about_title" = "Heimkehr";
+"about_body" = "Verplaatst alle vensters naar een gekozen beeldscherm.\n\nHandig wanneer twee laptops een extern beeldscherm delen en vensters \"verdwijnen\" op de verborgen ingang.\n\nSneltoetsen:\n⌃⌥⌘H – Alle vensters naar het interne beeldscherm\n⌃⌥⌘Z – Oorspronkelijke posities herstellen";
+
+/* Accessibility permission */
+"accessibility_required_title" = "Toegang tot Toegankelijkheid vereist";
+"accessibility_required_body" = "Heimkehr heeft toegang tot Toegankelijkheid nodig om vensters van andere apps te verplaatsen.\n\nSchakel \"Heimkehr\" in bij:\nSysteeminstellingen → Privacy en beveiliging → Toegankelijkheid";
+"button_open_settings" = "Open instellingen";
+"button_later" = "Later";
+
+/* Launch at Login failure */
+"launch_at_login_failed_title" = "Kan inlogonderdeel niet wijzigen";
+"launch_at_login_failed_body" = "Het systeem heeft de wijziging geweigerd. Controleer Systeeminstellingen → Algemeen → Inlogonderdelen voor Heimkehr.";
+
+/* Generic */
+"ok" = "OK";
